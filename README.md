@@ -19,7 +19,7 @@ Follow the steps below to set up and run the File Organizer on your system.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/file-organiser.git
+git clone https://github.com/inferno67/file-organiser.git
 cd file-organiser
 ```
 
@@ -54,15 +54,9 @@ pip install -r requirements.txt
 ### 4. Run the File Organizer
 
 ```bash
-python organiser.py
+python file_organizer.py
 ```
 
 ### ✅ Done!
 
-## 🖥️ Usage
-
-Run the script:
-
-```bash
-python file_organizer.py
 

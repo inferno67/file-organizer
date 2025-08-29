@@ -45,18 +45,13 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3. Install dependencies
+### 3. Run the File Organizer
 
 ```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the File Organizer
-
-```bash
-python file_organizer.py
+python organiser.py
 ```
 
 ### ✅ Done!
+
 
 

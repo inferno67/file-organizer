@@ -24,7 +24,7 @@ def organize_folder(folder_path):
         if os.path.isdir(file_path):
             continue  
 
-        # Find the file extension
+        # Find the file 
         _, extension = os.path.splitext(filename)
         extension = extension.lower()
 

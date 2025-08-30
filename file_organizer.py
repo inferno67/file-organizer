@@ -15,7 +15,7 @@ FILE_TYPES = {
     "Others": []  # everything else
 }
 
-def organize_folder(folderpath):
+def organize_folder(folder_path):
     # Loop through all files in the folder
     for filename in os.listdir(folder_path):
         file_path = os.path.join(folder_path, filename)

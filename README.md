@@ -19,7 +19,7 @@ Follow the steps below to set up and run the File Organizer on your system.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/infero67/file-organiser.git
+git clone https://github.com/inferno67/file-organiser.git
 cd file-organiser
 ```
 

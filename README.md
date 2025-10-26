@@ -1,4 +1,3 @@
-```markdown
 # File Organizer
 
 A powerful and professional file organizer CLI tool that organizes files into folders based on their extensions. It supports dry-run mode, conflict resolution strategies, deduplication, and can be built into a standalone executable.
